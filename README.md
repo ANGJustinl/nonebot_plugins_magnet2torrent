@@ -1,0 +1,2 @@
+# nonebot_plugins_magnet2torrent
+magnet2torrent plugin
